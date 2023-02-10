@@ -36,6 +36,8 @@ I am excited to take on new challenges and contribute to projects that make a po
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=monokai"/>
 </a> -->
 
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19davide91&langs_count=8&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2><i>Contact me:</i></h2>
