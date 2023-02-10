@@ -1,6 +1,6 @@
 ![hello](banner.png)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=19davide91)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=elegant&border_radius=20)](https://git.io/streak-stats)
 
 
 
