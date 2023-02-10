@@ -43,7 +43,7 @@ I am excited to take on new challenges and contribute to projects that make a po
 ## My Projects:
 
 - [Acheronte River](https://19davide91.github.io/Game-Acheronte-River/)
-- [Give Gifts](https://gift-app.cyclic.app/)
+- [Give Gift](https://gift-app.cyclic.app/)
 - [Pranklicious](https://pranklicious.netlify.app)
 
 <h2><i>Contact me:</i></h2>
