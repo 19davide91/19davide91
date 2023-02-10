@@ -5,10 +5,8 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" border="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/davide-lopresti-530668b3/) <== Linkedin
-
 <br/>
-
-<a href="mailto:[davidelopresti0129@gmail.com]">[davidelopresti0129@gmail.com]</a> <== Email
+<a href="mailto:[davidelopresti0129@gmail.com]"> davidelopresti0129@gmail.com</a> <== Email
 
 <br/>
 
