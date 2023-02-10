@@ -28,7 +28,7 @@ I am excited to take on new challenges and contribute to projects that make a po
 <br/>
 <br/>
 
-## 📈 My GitHub Stats:
+<!-- ## 📈 My GitHub Stats:
 <br/>
 
 
@@ -37,7 +37,7 @@ I am excited to take on new challenges and contribute to projects that make a po
 </a>
 <a href="https://github.com/19davide91/19davide91">
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=monokai"/>
-</a>
+</a> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19davide91&langs_count=8&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
