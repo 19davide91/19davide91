@@ -6,13 +6,6 @@
 
 <br/>
 
-### Contacts:
-
-Linkedin:  [<img alt="codeSTACKr | LinkedIn" width="22px" border="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/davide-lopresti-530668b3/)
-<br/>
-Email: <a href="mailto:[davidelopresti0129@gmail.com]"> davidelopresti0129@gmail.com</a>
-<br/>
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
@@ -29,13 +22,20 @@ Email: <a href="mailto:[davidelopresti0129@gmail.com]"> davidelopresti0129@gmail
 <br/>
 <br/>
 
-### 📈 GitHub Stats:
+### 📈 My GitHub Stats:
 
 ![19davide91's GitHub stats](https://github-readme-stats.vercel.app/api?username=19davide91&show_icons=true&theme=monokai)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19davide91&langs_count=8&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=monokai)](https://git.io/streak-stats)
+
+<a href="https://github.com/19davide91/19davide91">
+  <img align="center" src="https://api.githubtrends.io/user/svg/oussamabouchikhi/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
+</a>
+<a href="https://github.com/19davide91/19davide91">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabouchikhi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="oussamabouchikhi's github stats"/>
+</a>
 
 <h2><i>Contact me:</i></h2>
 <div  align="center">
