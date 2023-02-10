@@ -31,7 +31,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=monokai)](https://git.io/streak-stats)
 
 <a href="https://github.com/19davide91/19davide91">
-  <img align="center" src="https://api.githubtrends.io/user/svg/oussamabouchikhi/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
+  <img align="center" src="![19davide91's GitHub stats](https://github-readme-stats.vercel.app/api?username=19davide91&show_icons=true&theme=monokai)" />
 </a>
 <a href="https://github.com/19davide91/19davide91">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabouchikhi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="oussamabouchikhi's github stats"/>
