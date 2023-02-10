@@ -25,7 +25,7 @@ Email: <a href="mailto:[davidelopresti0129@gmail.com]"> davidelopresti0129@gmail
 
 <br/>
 <br/>
-<br/>
+
 ### 📈 GitHub Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=neon-palenight)](https://git.io/streak-stats)
