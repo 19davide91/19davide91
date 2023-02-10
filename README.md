@@ -2,12 +2,15 @@
 
 <br/>
 
+### About me:
+
+<br/>
+
 ### Contacts:
 
 Linkedin:  [<img alt="codeSTACKr | LinkedIn" width="22px" border="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/davide-lopresti-530668b3/)
 <br/>
 Email: <a href="mailto:[davidelopresti0129@gmail.com]"> davidelopresti0129@gmail.com</a>
-
 <br/>
 
 ### Languages and Tools:
@@ -27,6 +30,8 @@ Email: <a href="mailto:[davidelopresti0129@gmail.com]"> davidelopresti0129@gmail
 <br/>
 
 ### 📈 GitHub Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19davide91&theme=neon-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=neon-palenight)](https://git.io/streak-stats)
 
