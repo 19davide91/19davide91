@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=chartreuse-dark&border_radius=30&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=neon-palenight)](https://git.io/streak-stats)
 
 
 
