@@ -22,7 +22,7 @@ I am excited to take on new challenges and contribute to projects that make a po
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/)
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://www.mongodb.com/)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://e7.pngegg.com/pngimages/806/394/png-clipart-blue-animal-logo-github-icon-github-blue-world-thumbnail.png" />](https://github.com/)
+[<img align="left" alt="GitHub" width="26px" src="https://e7.pngegg.com/pngimages/911/648/png-clipart-github-repository-computer-icons-logo-github-blue-git-thumbnail.png"/>](https://github.com/)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://en.wikipedia.org/wiki/Computer_terminal)
 
 <br/>
