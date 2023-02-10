@@ -37,6 +37,17 @@ Email: <a href="mailto:[davidelopresti0129@gmail.com]"> davidelopresti0129@gmail
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=monokai)](https://git.io/streak-stats)
 
+<h2><i>Contact me:</i></h2>
+<div  align="center">
+
+  <a href="https://www.linkedin.com/in/davide-lopresti-530668b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+  </a>
+   <a href="mailto:davidelopresti0129@gmail.com" mailto="davidelopresti0129@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
+</div>
+
 <!--
 **19davide91/19davide91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
