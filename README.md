@@ -24,11 +24,7 @@
 
 ### 📈 My GitHub Stats:
 
-![19davide91's GitHub stats](https://github-readme-stats.vercel.app/api?username=19davide91&show_icons=true&theme=monokai)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19davide91&langs_count=8&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=monokai)](https://git.io/streak-stats)
 
 <a href="https://github.com/19davide91/19davide91">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=19davide91&show_icons=true&theme=monokai" />
