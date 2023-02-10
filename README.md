@@ -26,12 +26,9 @@ I am excited to take on new challenges and contribute to projects that make a po
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://en.wikipedia.org/wiki/Computer_terminal)
 
 <br/>
-<br/>
 
 <!-- ## 📈 My GitHub Stats:
 <br/>
-
-
 <a href="https://github.com/19davide91/19davide91">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=19davide91&show_icons=true&theme=monokai" />
 </a>
