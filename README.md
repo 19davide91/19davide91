@@ -46,8 +46,7 @@ I am excited to take on new challenges and contribute to projects that make a po
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn">
   </a>
    <a href="mailto:davidelopresti0129@gmail.com" mailto="[davidelopresti0129@gmail.com]" target="_blank">
-   <!-- <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=red" alt="Gmail"> -->
-    davidelopresti0129@gmail.com
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=red" alt="Gmail"> 
   </a>
 </div>
 
