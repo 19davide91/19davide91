@@ -31,9 +31,9 @@ Email: <a href="mailto:[davidelopresti0129@gmail.com]"> davidelopresti0129@gmail
 
 ### 📈 GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=19davide91&show_icons=true&theme=codeSTACKr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=19davide91&show_icons=true&theme=monokai )
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=codeSTACKr)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=monokai )](https://git.io/streak-stats)
 
 [![19davide91's GitHub Stats](https://github-readme-stats.vercel.app/api?username=19davide91)](https://github.com/19davide91/github-readme-stats)
 
