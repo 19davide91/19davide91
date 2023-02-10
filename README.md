@@ -4,9 +4,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" border="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/davide-lopresti-530668b3/) <== Linkedin
+Linkedin: [<alt="codeSTACKr | LinkedIn" width="22px" border="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/davide-lopresti-530668b3/)
 <br/>
-<a href="mailto:[davidelopresti0129@gmail.com]"> davidelopresti0129@gmail.com</a> <== Email
+Email: <a href="mailto:[davidelopresti0129@gmail.com]"> davidelopresti0129@gmail.com</a>
 
 <br/>
 
@@ -28,6 +28,7 @@
 <br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=neon-palenight)](https://git.io/streak-stats)
+
 [![19davide91's GitHub Stats](https://github-readme-stats.vercel.app/api?username=19davide91)](https://github.com/19davide91/github-readme-stats)
 
 <!--
