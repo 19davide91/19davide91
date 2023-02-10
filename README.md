@@ -40,6 +40,12 @@ I am excited to take on new challenges and contribute to projects that make a po
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19davide91&langs_count=8&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Projects:
+
+- [Acheronte River](https://19davide91.github.io/Game-Acheronte-River/)
+- [Give Gifts](https://gift-app.cyclic.app/)
+- [Pranklicious](https://pranklicious.netlify.app)
+
 <h2><i>Contact me:</i></h2>
 <div  align="center">
   <a href="https://www.linkedin.com/in/davide-lopresti-530668b3/" target="_blank">
