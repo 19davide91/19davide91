@@ -1,4 +1,3 @@
-### Hi there I'm Davide 👋
 ![hello](banner.png)
 <!--
 **19davide91/19davide91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
