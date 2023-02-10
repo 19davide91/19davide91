@@ -48,6 +48,8 @@ I am excited to take on new challenges and contribute to projects that make a po
    <a href="mailto:davidelopresti0129@gmail.com" mailto="[davidelopresti0129@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=red" alt="Gmail"> 
   </a>
+  <br/>
+  My Email: davidelopresti0129@gmail.com
 </div>
 
 <!--
