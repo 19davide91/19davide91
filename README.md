@@ -31,11 +31,11 @@ Email: <a href="mailto:[davidelopresti0129@gmail.com]"> davidelopresti0129@gmail
 
 ### 📈 GitHub Stats:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19davide91&langs_count=8&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=19davide91&show_icons=true&theme=monokai )
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=monokai )](https://git.io/streak-stats)
-
-[![19davide91's GitHub Stats](https://github-readme-stats.vercel.app/api?username=19davide91)](https://github.com/19davide91/github-readme-stats)
 
 <!--
 **19davide91/19davide91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
