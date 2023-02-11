@@ -42,9 +42,9 @@ I am excited to take on new challenges and contribute to projects that make a po
 
 ## My Projects:
 
-- [Acheronte River](https://19davide91.github.io/Game-Acheronte-River/)
-- [Give Gift](https://gift-app.cyclic.app/)
-- [Pranklicious](https://pranklicious.netlify.app)
+- [Acheronte River](https://19davide91.github.io/Game-Acheronte-River/) --> A game where you have to collect souls and avoid demons using the arrow keys on the keyboard.
+- [Give Gift](https://gift-app.cyclic.app/) --> An app where you can add friends and give them gifts after creating them too.
+- [Pranklicious](https://pranklicious.netlify.app) --> An app to create, comment and share detailed pranks with your friends.
 
 <h2><i>Contact me:</i></h2>
 <div  align="center">
