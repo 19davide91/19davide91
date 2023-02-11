@@ -4,11 +4,16 @@
 
 ## About me:
 
-A Junior Web Developer initiating a career in this enormous and exciting field. This journey started by attendeding the ironhack Web Development bootcamp where I   completed my first projects, and was able to get lots of hands-on experience. That was when my interest in the area became a passion!
+A Junior Web Developer initiating a career in this exciting field. 
 <br/>
-At the moment I am familiar with HTML, CSS, JavaScript, and React, but I am already working on other challenges to continue to improve my skills and learn more everyday.
+This journey started by attending the ironhack Web Development bootcamp where I completed my first projects, and was able to get lots of hands-on experience. 
+That was when my interest in the area became a passion!
 <br/>
-I understand the importance of creating accessible, responsive, and cross-browser compatible websites, and I work hard to incorporate these best practices into my projects. Despite being methodic, I consider myself to be open-minded and flexible, which I belive to be a big asset in a developer.
+At the moment I am familiar with HTML, CSS, JavaScript, and React, but I am continuously working on other challenges to continue to improve my skills and learn more everyday.
+<br/>
+I understand the importance of creating accessible, responsive, and cross-browser compatible websites, and I work hard to incorporate modern best practices into my projects.
+<br/>
+Despite being methodic, I consider myself to be open-minded and flexible, which I believe to be a critical asset for a developer.
 <br/>
 I am excited to take on new challenges and contribute to projects that make a positive impact!
 
