@@ -17,6 +17,12 @@ Despite being methodic, I consider myself to be open-minded and flexible, which 
 <br/>
 I am excited to take on new challenges and contribute to projects that make a positive impact!
 
+## My Projects:
+
+- [Acheronte River](https://19davide91.github.io/Game-Acheronte-River/) --> A game where you have to collect souls and avoid demons using the arrow keys on the keyboard.
+- [Give Gift](https://gift-app.cyclic.app/) --> An app where you can add friends and give them gifts after creating them too.
+- [Pranklicious](https://pranklicious.netlify.app) --> An app to create, comment and share detailed pranks with your friends.
+
 ## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
@@ -28,8 +34,8 @@ I am excited to take on new challenges and contribute to projects that make a po
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://www.mongodb.com/)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://e7.pngegg.com/pngimages/911/648/png-clipart-github-repository-computer-icons-logo-github-blue-git-thumbnail.png"/>](https://github.com/)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://en.wikipedia.org/wiki/Computer_terminal)
-
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://en.wikipedia.org/wiki/Computer_terminal) 
+[<img align="left" alt="Terminal" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />](https://postman.com/)
 <br/>
 
 <!-- ## 📈 My GitHub Stats:
@@ -43,13 +49,22 @@ I am excited to take on new challenges and contribute to projects that make a po
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19davide91&langs_count=8&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-
-## My Projects:
-
-- [Acheronte River](https://19davide91.github.io/Game-Acheronte-River/) --> A game where you have to collect souls and avoid demons using the arrow keys on the keyboard.
-- [Give Gift](https://gift-app.cyclic.app/) --> An app where you can add friends and give them gifts after creating them too.
-- [Pranklicious](https://pranklicious.netlify.app) --> An app to create, comment and share detailed pranks with your friends.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19davide91&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<details open>
+  <summary><h3>Statistics</h3></summary>
+        <p align="center">
+          <a href="https://github.com/LuckyGardel/">
+          <img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=19davide91&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=19davide91&theme=gruvbox&hide_border=true" />
+          </a>
+          <a href="https://github.com/19davide91" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=19davide91&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a><br>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>  
 
 <h2><i>Contact me:</i></h2>
 <div  align="center">
