@@ -1,7 +1,4 @@
 ![hello](banner1.png)
-
-<br/>
-
 ## About me:
 
 A Junior Web Developer initiating a career in this exciting field. 
