@@ -36,8 +36,7 @@ I am excited to take on new challenges and contribute to projects that make a po
 [<img align="left" alt="GitHub" width="26px" src="https://e7.pngegg.com/pngimages/911/648/png-clipart-github-repository-computer-icons-logo-github-blue-git-thumbnail.png"/>](https://github.com/)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://en.wikipedia.org/wiki/Computer_terminal) 
 [<img align="left" alt="Terminal" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />](https://postman.com/)
-<br/>
-
+<br>
 <!-- ## 📈 My GitHub Stats:
 <br/>
 <a href="https://github.com/19davide91/19davide91">
@@ -45,21 +44,20 @@ I am excited to take on new challenges and contribute to projects that make a po
 </a>
 <a href="https://github.com/19davide91/19davide91">
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=19davide91&theme=monokai"/>
-</a> -->
-
-<br/>
-
+</a> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19davide91&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <details>
-  <summary><h3>Statistics</h3></summary>
+  <summary><h3><i>Stats</i></h3></summary>
         <p align="center">
-          <a href="https://github.com/LuckyGardel/">
+          <a href="https://github.com/19davide91/">
+            <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19davide91&langs_count=8&theme=gruvbox&hide_border=true" />
+            <br>
           <img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=19davide91&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=19davide91&theme=gruvbox&hide_border=true" />
+          <img align="center" src="https://komarev.com/ghpvc/?username=19davide91&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count" />
           </a>
-          <a href="https://github.com/19davide91" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=19davide91&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a><br>
+          <br>
        </p>
      <br>
      </samp>
