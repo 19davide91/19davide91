@@ -50,7 +50,7 @@ I am excited to take on new challenges and contribute to projects that make a po
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19davide91&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-<details open>
+<details>
   <summary><h3>Statistics</h3></summary>
         <p align="center">
           <a href="https://github.com/LuckyGardel/">
