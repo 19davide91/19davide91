@@ -52,7 +52,7 @@ I am excited to take on new challenges and contribute to projects that make a po
             <br>
           <img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=19davide91&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=19davide91&theme=gruvbox&hide_border=true" />
-          <img align="center" src="https://komarev.com/ghpvc/?username=19davide91&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count" />
+         <!-- <img align="center" src="https://komarev.com/ghpvc/?username=19davide91&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count" /> -->
           </a>
           <br>
        </p>
