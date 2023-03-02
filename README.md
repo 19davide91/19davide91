@@ -14,6 +14,8 @@ Despite being methodic, I consider myself to be open-minded and flexible, which 
 <br/>
 I am excited to take on new challenges and contribute to projects that make a positive impact!
 
+>[My Portfolio](https://davide-lopresti-portfolio.netlify.app/)<
+
 ## My Projects:
 
 - First project: [Acheronte River](https://19davide91.github.io/Game-Acheronte-River/) --> A game where you have to collect souls and avoid demons using the arrow keys on the keyboard.
