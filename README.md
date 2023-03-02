@@ -4,7 +4,7 @@
 A Junior Web Developer initiating a career in this exciting field. 
 <br/>
 This journey started by attending the ironhack Web Development bootcamp where I completed my first projects, and was able to get lots of hands-on experience. 
-That was when my interest in the area became a passion!
+That was when my interest in the area became a passion.
 <br/>
 At the moment I am familiar with HTML, CSS, JavaScript, and React, but I am continuously working on other challenges to continue to improve my skills and learn more everyday.
 <br/>
@@ -12,9 +12,9 @@ I understand the importance of creating accessible, responsive, and cross-browse
 <br/>
 Despite being methodic, I consider myself to be open-minded and flexible, which I believe to be a critical asset for a developer.
 <br/>
-I am excited to take on new challenges and contribute to projects that make a positive impact!
+I am excited to take on new challenges and contribute to projects that make a positive impact.
 
->[My Portfolio](https://davide-lopresti-portfolio.netlify.app/)<
+>[Check out my webpage!](https://davide-lopresti-portfolio.netlify.app/)
 
 ## My Projects:
 
